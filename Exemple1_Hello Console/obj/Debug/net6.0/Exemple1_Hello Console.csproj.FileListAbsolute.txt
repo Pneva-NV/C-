@@ -1,0 +1,15 @@
+C:\Users\apnio\Exemples\Exemple1_Hello Console\bin\Debug\net6.0\Exemple1_Hello Console.exe
+C:\Users\apnio\Exemples\Exemple1_Hello Console\bin\Debug\net6.0\Exemple1_Hello Console.deps.json
+C:\Users\apnio\Exemples\Exemple1_Hello Console\bin\Debug\net6.0\Exemple1_Hello Console.runtimeconfig.json
+C:\Users\apnio\Exemples\Exemple1_Hello Console\bin\Debug\net6.0\Exemple1_Hello Console.dll
+C:\Users\apnio\Exemples\Exemple1_Hello Console\bin\Debug\net6.0\Exemple1_Hello Console.pdb
+C:\Users\apnio\Exemples\Exemple1_Hello Console\obj\Debug\net6.0\Exemple1_Hello Console.csproj.AssemblyReference.cache
+C:\Users\apnio\Exemples\Exemple1_Hello Console\obj\Debug\net6.0\Exemple1_Hello Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apnio\Exemples\Exemple1_Hello Console\obj\Debug\net6.0\Exemple1_Hello Console.AssemblyInfoInputs.cache
+C:\Users\apnio\Exemples\Exemple1_Hello Console\obj\Debug\net6.0\Exemple1_Hello Console.AssemblyInfo.cs
+C:\Users\apnio\Exemples\Exemple1_Hello Console\obj\Debug\net6.0\Exemple1_Hello Console.csproj.CoreCompileInputs.cache
+C:\Users\apnio\Exemples\Exemple1_Hello Console\obj\Debug\net6.0\Exemple1_Hello Console.dll
+C:\Users\apnio\Exemples\Exemple1_Hello Console\obj\Debug\net6.0\refint\Exemple1_Hello Console.dll
+C:\Users\apnio\Exemples\Exemple1_Hello Console\obj\Debug\net6.0\Exemple1_Hello Console.pdb
+C:\Users\apnio\Exemples\Exemple1_Hello Console\obj\Debug\net6.0\Exemple1_Hello Console.genruntimeconfig.cache
+C:\Users\apnio\Exemples\Exemple1_Hello Console\obj\Debug\net6.0\ref\Exemple1_Hello Console.dll
